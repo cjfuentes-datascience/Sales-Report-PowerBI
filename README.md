@@ -6,7 +6,7 @@ To view the dashboard, you can follow these steps:
 
 1. Download the .pbix file from GitHub and save it to your computer.
 
-2. Install Power BI Desktop from the Microsoft website (https://powerbi.microsoft.com/en-us/desktop/).
+2. Install Power BI Desktop from the Microsoft website.
 
 3. Open Power BI Desktop and select "File" > "Open" from the menu.
 
